@@ -6,3 +6,5 @@
 Код будет написан на Pascal.
 
 [Задача на однонаправленные линейные списки](https://github.com/amm-vsu-2015/1y2s_basic/tree/master/task1)
+
+[Задача на двунаправленные линейные списки](https://github.com/amm-vsu-2015/1y2s_basic/tree/master/task1)
